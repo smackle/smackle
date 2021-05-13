@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Subham.</h2>
 
@@ -39,7 +38,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-subham-kumar-089989148-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:smecksmack69@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-smecksmack69@protonmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/subham-kumar-089989148/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:smecksmack69@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </p>
 
