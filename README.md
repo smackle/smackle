@@ -1,7 +1,6 @@
-
-<h2> Hey there! I'm Subham.</h2>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+<h2> Hey there! I'm Subham.</h2>
 
 <h3> &nbsp;I'm a Software Engineer </h3>
 
