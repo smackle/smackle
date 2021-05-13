@@ -1,8 +1,8 @@
 
 <h2> Hey there! I'm Subham.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- Software Enginner
+<h3> &nbsp;I'm a Software Engineer </h3>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
